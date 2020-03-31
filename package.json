@@ -1,0 +1,31 @@
+{
+  "name": "responsbilenaturetrekker",
+  "version": "1.0.0",
+  "description": "Landing page for Responsible Nature Trekker website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephprasanth/RNT-TourOperators.git"
+  },
+  "keywords": [
+    "tour",
+    "visit",
+    "sierre",
+    "leone"
+  ],
+  "author": "Prasanth Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephprasanth/RNT-TourOperators/issues"
+  },
+  "homepage": "https://github.com/josephprasanth/RNT-TourOperators#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
